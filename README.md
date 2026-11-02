@@ -1,5 +1,8 @@
 # Smartphone Colorimetry and Machine Learning for Borax Screening
 
+**Nama:** Mada Sanjaya WS  
+**NIM:** P36.2026.00011
+
 Course project for **Project Mid Term — Prof. Dr. Guruh Fajar Shidik**.
 
 This repository contains the Python analysis program and its required Python packages. The final paper is submitted separately through the course assignment link and is not presented here as a published article.
